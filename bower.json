@@ -1,0 +1,27 @@
+{
+	"name": "unlikable",
+	"homepage": "https://github.com/christirichards/unlikable",
+	"authors": [
+    "(Christi Richards <christi@christirichards.com>)"
+  ],
+	"description": "Unlikable is a set of utilities for Facebook to manage your account",
+	"main": "index.php",
+	"keywords": [
+    "Facebook",
+    "PHP"
+  ],
+	"license": "MIT",
+	"private": true,
+	"ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+	"dependencies": {
+		"bootstrap": "^3.3.7",
+		"octicons": "^5.0.1",
+		"jquery": "^3.1.1"
+	}
+}
